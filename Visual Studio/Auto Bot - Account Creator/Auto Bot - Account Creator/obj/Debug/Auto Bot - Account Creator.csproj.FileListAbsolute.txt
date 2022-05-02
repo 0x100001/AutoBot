@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\bin\Debug\Auto Bot - Account Creator.exe.config
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\bin\Debug\Auto Bot - Account Creator.exe
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\bin\Debug\Auto Bot - Account Creator.pdb
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto Bot - Account Creator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto_Bot___Account_Creator.Main_Form.resources
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto_Bot___Account_Creator.Properties.Resources.resources
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto Bot - Account Creator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto Bot - Account Creator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto Bot - Account Creator.csproj.CopyComplete
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto Bot - Account Creator.exe
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto Bot - Account Creator.pdb
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\bin\Debug\WebDriver.xml
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto_Bot___Account_Creator.Helper.Form_Alert.resources
+C:\Users\User\source\repos\Auto Bot - Account Creator\Auto Bot - Account Creator\obj\Debug\Auto_Bot___Account_Creator.Login_Form.resources

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Auto Bot - Starter\Auto Bot - Starter\obj\Release\Auto Bot - Starter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Auto Bot - Starter\Auto Bot - Starter\bin\Release\Auto_Bot_Starter.exe.config
+C:\Users\User\source\repos\Auto Bot - Starter\Auto Bot - Starter\bin\Release\Auto_Bot_Starter.exe
+C:\Users\User\source\repos\Auto Bot - Starter\Auto Bot - Starter\obj\Release\Auto Bot - Starter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Auto Bot - Starter\Auto Bot - Starter\obj\Release\Auto_Bot_Starter.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Starter\Auto Bot - Starter\bin\Release\Auto_Bot_Starter.exe.config
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Starter\Auto Bot - Starter\bin\Release\Auto_Bot_Starter.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Starter\Auto Bot - Starter\obj\Release\Auto Bot - Starter.csproj.CoreCompileInputs.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Starter\Auto Bot - Starter\obj\Release\Auto_Bot_Starter.exe

@@ -1,0 +1,9 @@
+[13.07.2021 10:18:11] - [Main_Form] -> Description: Delete Firefox Cookies Error: Der Prozess kann nicht auf die Datei "C:\Users\User\AppData\Roaming\Mozilla\Firefox\Profiles\eoosnb1c.autobot\cookies.sqlite" zugreifen, da sie von einem anderen Prozess verwendet wird.
+[13.07.2021 11:54:02] - [Main_Form] -> Description: Health Check Error: Der Zeichenfolgenverweis ist nicht auf einen Zeichenfolgeninstanz festgelegt.
+Parametername: s
+[13.07.2021 12:01:34] - [Main_Form] -> Description: Health Check Error: Der Zeichenfolgenverweis ist nicht auf einen Zeichenfolgeninstanz festgelegt.
+Parametername: s
+[13.07.2021 12:06:03] - [Main_Form] -> Description: Start driver. Error: Cannot start the driver service on http://localhost:59208/
+[13.07.2021 12:06:03] - [Main_Form] -> Description: Start driver. Error: A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:59210/session. The status of the exception was ReceiveFailure, and the message was: Die zugrunde liegende Verbindung wurde geschlossen: Unbekannter Fehler beim Empfangen..
+[13.07.2021 12:11:12] - [Main_Form] -> Description: Health Check Error: Der Zeichenfolgenverweis ist nicht auf einen Zeichenfolgeninstanz festgelegt.
+Parametername: s

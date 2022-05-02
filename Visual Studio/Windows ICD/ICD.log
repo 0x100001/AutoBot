@@ -1,0 +1,768 @@
+5/28/2020 2:33:24 PM Info Project 'Auto Bot Streaming Client' created successfully and added to workspace
+5/28/2020 2:33:24 PM Info Loading scenario ID: ee64f926-ff3c-463c-942d-d3429845c21f, URI: http://localhost:9098/Scenarios/ee64f926-ff3c-463c-942d-d3429845c21f/Index.html
+5/28/2020 2:39:46 PM Info Clear all Config Template answers
+5/28/2020 2:39:46 PM Info Save Config Template answers for active project
+5/28/2020 2:39:46 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:46 PM Info !EnableSharedPC, Value: false
+5/28/2020 2:39:46 PM Info !enableDeviceSharing_display, Value: 
+5/28/2020 2:39:46 PM Info !disableDeviceSharing, Value: 
+5/28/2020 2:39:46 PM Info SharedPC//EnableSharedPCMode, Value: true
+5/28/2020 2:39:46 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+5/28/2020 2:39:46 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+5/28/2020 2:39:46 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+5/28/2020 2:39:46 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+5/28/2020 2:39:46 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+5/28/2020 2:39:46 PM Info SharedPC//ConfigureApplications, Value: true
+5/28/2020 2:39:46 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+5/28/2020 2:39:46 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+5/28/2020 2:39:46 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+5/28/2020 2:39:46 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+5/28/2020 2:39:46 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+5/28/2020 2:39:46 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+5/28/2020 2:39:46 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+5/28/2020 2:39:46 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+5/28/2020 2:39:46 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+5/28/2020 2:39:46 PM Info !EnableCleanPC, Value: false
+5/28/2020 2:39:46 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+5/28/2020 2:39:46 PM Info !EnableCleanPcDisplayFalse, Value: 
+5/28/2020 2:39:46 PM Info OOBE/Desktop/HideOOBE, Value: true
+5/28/2020 2:39:46 PM Info Accounts//ComputerAccount//ComputerName, Value: Auto_Bot_VM
+5/28/2020 2:39:46 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:46 PM Info !ConfigureWiFi, Value: false
+5/28/2020 2:39:46 PM Info !configureWiFi_transparent, Value: 
+5/28/2020 2:39:46 PM Info !SecurityType, Value: 
+5/28/2020 2:39:46 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:46 PM Info !domainJoin, Value: domainJoin.3
+5/28/2020 2:39:46 PM Info bprtExpiry, Value: 2020-11-24T12:34:01.480Z
+5/28/2020 2:39:46 PM Info !admin_usergroup, Value: 2
+5/28/2020 2:39:46 PM Info Accounts//Users, Value: autobot
+5/28/2020 2:39:46 PM Info !admin_password, Value: Autobot123!
+5/28/2020 2:39:46 PM Info Accounts//Users//autobot//Password, Value: Autobot123!
+5/28/2020 2:39:46 PM Info Accounts//Users//autobot//UserGroup, Value: 2
+5/28/2020 2:39:46 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:46 PM Info !SetupApplications, Value: true
+5/28/2020 2:39:46 PM Info ProvisioningCommands//PrimaryContext//Command, Value: [[{"Path":"ProvisioningCommands//PrimaryContext//Command//ListItemName","Answer":"Auto Bot Client","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandFile","Answer":"C:\\Users\\user\\Cloud\\Projekte\\Auto Bot 2.0\\Spotify\\Auto Bot - Main Chrome\\Ayyhook Loader\\Ayy Hook\\bin\\Release\\Auto_Bot_Client.exe","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeSuccess","Answer":0,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeRestart","Answer":3010,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//RestartRequired","Answer":false,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ContinueInstall","Answer":true,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandLine","Answer":"cmd /c \"auto_bot_client.exe\"","IsActive":true}]]
+5/28/2020 2:39:46 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+5/28/2020 2:39:46 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+5/28/2020 2:39:46 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+5/28/2020 2:39:46 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:46 PM Info !SetupCertificates, Value: true
+5/28/2020 2:39:46 PM Info Certificates//RootCertificates, Value: []
+5/28/2020 2:39:46 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:46 PM Info !createUser, Value: true
+5/28/2020 2:39:46 PM Info !localuser_usergroup, Value: 1
+5/28/2020 2:39:46 PM Info !autoLogon, Value: true
+5/28/2020 2:39:46 PM Info SMISettings//AutoLogon//Enable, Value: 1
+5/28/2020 2:39:46 PM Info SMISettings//ShellLauncher//Enable, Value: 
+5/28/2020 2:39:46 PM Info AssignedAccess//AssignedAccessSettings, Value: {"Account":"Auto Bot", "AUMID":""}
+5/28/2020 2:39:46 PM Info Accounts//Users, Value: Auto Bot
+5/28/2020 2:39:46 PM Info SMISettings//AutoLogon//UserName, Value: Auto Bot
+5/28/2020 2:39:46 PM Info !localuser_password, Value: Autobot123!
+5/28/2020 2:39:46 PM Info SMISettings//AutoLogon//Password, Value: Autobot123!
+5/28/2020 2:39:46 PM Info !kioskAppType, Value: Classic Windows App
+5/28/2020 2:39:46 PM Info !isUniversalApp, Value: false
+5/28/2020 2:39:46 PM Info !kioskUserName, Value: Auto Bot
+5/28/2020 2:39:46 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings, Value: Auto Bot
+5/28/2020 2:39:46 PM Info Accounts//Users//Auto Bot//Password, Value: Autobot123!
+5/28/2020 2:39:46 PM Info Accounts//Users//Auto Bot//UserGroup, Value: 1
+5/28/2020 2:39:46 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//LocalUserShellSetting//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:39:46 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//Auto Bot//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:39:46 PM Info FAILURE
+5/28/2020 2:39:46 PM Error Unexpected error occurred: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: Parameteranswer cannot be null
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass37_0.<SaveProject>b__0(ConfigTemplateAnswer templateAns)
+   bei Microsoft.Windows.ICD.Common.Extensions.ForEach[T](IEnumerable`1 enumeration, Action`1 action)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.SaveProject(IProject project, ConfigTemplateAnswer[] templateAnswers, String answerMetadata, Boolean closeProject)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass35_0.<SaveActiveProjectAsync>b__0()
+   bei System.Threading.Tasks.Task`1.InnerInvoke()
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<SaveActiveProjectAsync>d__35.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<BuildAsync>d__2.MoveNext()
+5/28/2020 2:39:47 PM Info Sent message to all clients for project 503b84ac-c67b-44ab-9deb-ca9a8358af99
+5/28/2020 2:39:48 PM Info Clear all Config Template answers
+5/28/2020 2:39:48 PM Info Save Config Template answers for active project
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !EnableSharedPC, Value: false
+5/28/2020 2:39:48 PM Info !enableDeviceSharing_display, Value: 
+5/28/2020 2:39:48 PM Info !disableDeviceSharing, Value: 
+5/28/2020 2:39:48 PM Info SharedPC//EnableSharedPCMode, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+5/28/2020 2:39:48 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+5/28/2020 2:39:48 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+5/28/2020 2:39:48 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+5/28/2020 2:39:48 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//ConfigureApplications, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+5/28/2020 2:39:48 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+5/28/2020 2:39:48 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+5/28/2020 2:39:48 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+5/28/2020 2:39:48 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+5/28/2020 2:39:48 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+5/28/2020 2:39:48 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+5/28/2020 2:39:48 PM Info !EnableCleanPC, Value: false
+5/28/2020 2:39:48 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+5/28/2020 2:39:48 PM Info !EnableCleanPcDisplayFalse, Value: 
+5/28/2020 2:39:48 PM Info OOBE/Desktop/HideOOBE, Value: true
+5/28/2020 2:39:48 PM Info Accounts//ComputerAccount//ComputerName, Value: Auto_Bot_VM
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !ConfigureWiFi, Value: false
+5/28/2020 2:39:48 PM Info !configureWiFi_transparent, Value: 
+5/28/2020 2:39:48 PM Info !SecurityType, Value: 
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !domainJoin, Value: domainJoin.3
+5/28/2020 2:39:48 PM Info bprtExpiry, Value: 2020-11-24T12:34:01.480Z
+5/28/2020 2:39:48 PM Info !admin_usergroup, Value: 2
+5/28/2020 2:39:48 PM Info Accounts//Users, Value: autobot
+5/28/2020 2:39:48 PM Info !admin_password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info Accounts//Users//autobot//Password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info Accounts//Users//autobot//UserGroup, Value: 2
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !SetupApplications, Value: true
+5/28/2020 2:39:48 PM Info ProvisioningCommands//PrimaryContext//Command, Value: [[{"Path":"ProvisioningCommands//PrimaryContext//Command//ListItemName","Answer":"Auto Bot Client","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandFile","Answer":"C:\\Users\\user\\Cloud\\Projekte\\Auto Bot 2.0\\Spotify\\Auto Bot - Main Chrome\\Ayyhook Loader\\Ayy Hook\\bin\\Release\\Auto_Bot_Client.exe","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeSuccess","Answer":0,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeRestart","Answer":3010,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//RestartRequired","Answer":false,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ContinueInstall","Answer":true,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandLine","Answer":"cmd /c \"auto_bot_client.exe\"","IsActive":true}]]
+5/28/2020 2:39:48 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+5/28/2020 2:39:48 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+5/28/2020 2:39:48 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !SetupCertificates, Value: true
+5/28/2020 2:39:48 PM Info Certificates//RootCertificates, Value: []
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !createUser, Value: true
+5/28/2020 2:39:48 PM Info !localuser_usergroup, Value: 1
+5/28/2020 2:39:48 PM Info !autoLogon, Value: true
+5/28/2020 2:39:48 PM Info SMISettings//AutoLogon//Enable, Value: 1
+5/28/2020 2:39:48 PM Info SMISettings//ShellLauncher//Enable, Value: 
+5/28/2020 2:39:48 PM Info AssignedAccess//AssignedAccessSettings, Value: {"Account":"Auto Bot", "AUMID":""}
+5/28/2020 2:39:48 PM Info Accounts//Users, Value: Auto Bot
+5/28/2020 2:39:48 PM Info SMISettings//AutoLogon//UserName, Value: Auto Bot
+5/28/2020 2:39:48 PM Info !localuser_password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info SMISettings//AutoLogon//Password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info !kioskAppType, Value: Classic Windows App
+5/28/2020 2:39:48 PM Info !isUniversalApp, Value: false
+5/28/2020 2:39:48 PM Info !kioskUserName, Value: Auto Bot
+5/28/2020 2:39:48 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings, Value: Auto Bot
+5/28/2020 2:39:48 PM Info Accounts//Users//Auto Bot//Password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info Accounts//Users//Auto Bot//UserGroup, Value: 1
+5/28/2020 2:39:48 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//LocalUserShellSetting//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:39:48 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//Auto Bot//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:39:48 PM Info FAILURE
+5/28/2020 2:39:48 PM Error Unexpected error occurred: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: Parameteranswer cannot be null
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass37_0.<SaveProject>b__0(ConfigTemplateAnswer templateAns)
+   bei Microsoft.Windows.ICD.Common.Extensions.ForEach[T](IEnumerable`1 enumeration, Action`1 action)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.SaveProject(IProject project, ConfigTemplateAnswer[] templateAnswers, String answerMetadata, Boolean closeProject)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass35_0.<SaveActiveProjectAsync>b__0()
+   bei System.Threading.Tasks.Task`1.InnerInvoke()
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<SaveActiveProjectAsync>d__35.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<BuildAsync>d__2.MoveNext()
+5/28/2020 2:39:48 PM Info Sent message to all clients for project 503b84ac-c67b-44ab-9deb-ca9a8358af99
+5/28/2020 2:39:48 PM Info Clear all Config Template answers
+5/28/2020 2:39:48 PM Info Save Config Template answers for active project
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !EnableSharedPC, Value: false
+5/28/2020 2:39:48 PM Info !enableDeviceSharing_display, Value: 
+5/28/2020 2:39:48 PM Info !disableDeviceSharing, Value: 
+5/28/2020 2:39:48 PM Info SharedPC//EnableSharedPCMode, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+5/28/2020 2:39:48 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+5/28/2020 2:39:48 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+5/28/2020 2:39:48 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+5/28/2020 2:39:48 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//ConfigureApplications, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+5/28/2020 2:39:48 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+5/28/2020 2:39:48 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+5/28/2020 2:39:48 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+5/28/2020 2:39:48 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+5/28/2020 2:39:48 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+5/28/2020 2:39:48 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+5/28/2020 2:39:48 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+5/28/2020 2:39:48 PM Info !EnableCleanPC, Value: false
+5/28/2020 2:39:48 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+5/28/2020 2:39:48 PM Info !EnableCleanPcDisplayFalse, Value: 
+5/28/2020 2:39:48 PM Info OOBE/Desktop/HideOOBE, Value: true
+5/28/2020 2:39:48 PM Info Accounts//ComputerAccount//ComputerName, Value: Auto_Bot_VM
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !ConfigureWiFi, Value: false
+5/28/2020 2:39:48 PM Info !configureWiFi_transparent, Value: 
+5/28/2020 2:39:48 PM Info !SecurityType, Value: 
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !domainJoin, Value: domainJoin.3
+5/28/2020 2:39:48 PM Info bprtExpiry, Value: 2020-11-24T12:34:01.480Z
+5/28/2020 2:39:48 PM Info !admin_usergroup, Value: 2
+5/28/2020 2:39:48 PM Info Accounts//Users, Value: autobot
+5/28/2020 2:39:48 PM Info !admin_password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info Accounts//Users//autobot//Password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info Accounts//Users//autobot//UserGroup, Value: 2
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !SetupApplications, Value: true
+5/28/2020 2:39:48 PM Info ProvisioningCommands//PrimaryContext//Command, Value: [[{"Path":"ProvisioningCommands//PrimaryContext//Command//ListItemName","Answer":"Auto Bot Client","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandFile","Answer":"C:\\Users\\user\\Cloud\\Projekte\\Auto Bot 2.0\\Spotify\\Auto Bot - Main Chrome\\Ayyhook Loader\\Ayy Hook\\bin\\Release\\Auto_Bot_Client.exe","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeSuccess","Answer":0,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeRestart","Answer":3010,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//RestartRequired","Answer":false,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ContinueInstall","Answer":true,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandLine","Answer":"cmd /c \"auto_bot_client.exe\"","IsActive":true}]]
+5/28/2020 2:39:48 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+5/28/2020 2:39:48 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+5/28/2020 2:39:48 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !SetupCertificates, Value: true
+5/28/2020 2:39:48 PM Info Certificates//RootCertificates, Value: []
+5/28/2020 2:39:48 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:48 PM Info !createUser, Value: true
+5/28/2020 2:39:48 PM Info !localuser_usergroup, Value: 1
+5/28/2020 2:39:48 PM Info !autoLogon, Value: true
+5/28/2020 2:39:48 PM Info SMISettings//AutoLogon//Enable, Value: 1
+5/28/2020 2:39:48 PM Info SMISettings//ShellLauncher//Enable, Value: 
+5/28/2020 2:39:48 PM Info AssignedAccess//AssignedAccessSettings, Value: {"Account":"Auto Bot", "AUMID":""}
+5/28/2020 2:39:48 PM Info Accounts//Users, Value: Auto Bot
+5/28/2020 2:39:48 PM Info SMISettings//AutoLogon//UserName, Value: Auto Bot
+5/28/2020 2:39:48 PM Info !localuser_password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info SMISettings//AutoLogon//Password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info !kioskAppType, Value: Classic Windows App
+5/28/2020 2:39:48 PM Info !isUniversalApp, Value: false
+5/28/2020 2:39:48 PM Info !kioskUserName, Value: Auto Bot
+5/28/2020 2:39:48 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings, Value: Auto Bot
+5/28/2020 2:39:48 PM Info Accounts//Users//Auto Bot//Password, Value: Autobot123!
+5/28/2020 2:39:48 PM Info Accounts//Users//Auto Bot//UserGroup, Value: 1
+5/28/2020 2:39:48 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//LocalUserShellSetting//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:39:48 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//Auto Bot//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:39:48 PM Info FAILURE
+5/28/2020 2:39:48 PM Error Unexpected error occurred: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: Parameteranswer cannot be null
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass37_0.<SaveProject>b__0(ConfigTemplateAnswer templateAns)
+   bei Microsoft.Windows.ICD.Common.Extensions.ForEach[T](IEnumerable`1 enumeration, Action`1 action)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.SaveProject(IProject project, ConfigTemplateAnswer[] templateAnswers, String answerMetadata, Boolean closeProject)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass35_0.<SaveActiveProjectAsync>b__0()
+   bei System.Threading.Tasks.Task`1.InnerInvoke()
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<SaveActiveProjectAsync>d__35.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<BuildAsync>d__2.MoveNext()
+5/28/2020 2:39:48 PM Info Sent message to all clients for project 503b84ac-c67b-44ab-9deb-ca9a8358af99
+5/28/2020 2:39:49 PM Info Clear all Config Template answers
+5/28/2020 2:39:49 PM Info Save Config Template answers for active project
+5/28/2020 2:39:49 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:49 PM Info !EnableSharedPC, Value: false
+5/28/2020 2:39:49 PM Info !enableDeviceSharing_display, Value: 
+5/28/2020 2:39:49 PM Info !disableDeviceSharing, Value: 
+5/28/2020 2:39:49 PM Info SharedPC//EnableSharedPCMode, Value: true
+5/28/2020 2:39:49 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+5/28/2020 2:39:49 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+5/28/2020 2:39:49 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+5/28/2020 2:39:49 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+5/28/2020 2:39:49 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+5/28/2020 2:39:49 PM Info SharedPC//ConfigureApplications, Value: true
+5/28/2020 2:39:49 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+5/28/2020 2:39:49 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+5/28/2020 2:39:49 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+5/28/2020 2:39:49 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+5/28/2020 2:39:49 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+5/28/2020 2:39:49 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+5/28/2020 2:39:49 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+5/28/2020 2:39:49 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+5/28/2020 2:39:49 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+5/28/2020 2:39:49 PM Info !EnableCleanPC, Value: false
+5/28/2020 2:39:49 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+5/28/2020 2:39:49 PM Info !EnableCleanPcDisplayFalse, Value: 
+5/28/2020 2:39:49 PM Info OOBE/Desktop/HideOOBE, Value: true
+5/28/2020 2:39:49 PM Info Accounts//ComputerAccount//ComputerName, Value: Auto_Bot_VM
+5/28/2020 2:39:49 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:49 PM Info !ConfigureWiFi, Value: false
+5/28/2020 2:39:49 PM Info !configureWiFi_transparent, Value: 
+5/28/2020 2:39:49 PM Info !SecurityType, Value: 
+5/28/2020 2:39:49 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:49 PM Info !domainJoin, Value: domainJoin.3
+5/28/2020 2:39:49 PM Info bprtExpiry, Value: 2020-11-24T12:34:01.480Z
+5/28/2020 2:39:49 PM Info !admin_usergroup, Value: 2
+5/28/2020 2:39:49 PM Info Accounts//Users, Value: autobot
+5/28/2020 2:39:49 PM Info !admin_password, Value: Autobot123!
+5/28/2020 2:39:49 PM Info Accounts//Users//autobot//Password, Value: Autobot123!
+5/28/2020 2:39:49 PM Info Accounts//Users//autobot//UserGroup, Value: 2
+5/28/2020 2:39:49 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:49 PM Info !SetupApplications, Value: true
+5/28/2020 2:39:49 PM Info ProvisioningCommands//PrimaryContext//Command, Value: [[{"Path":"ProvisioningCommands//PrimaryContext//Command//ListItemName","Answer":"Auto Bot Client","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandFile","Answer":"C:\\Users\\user\\Cloud\\Projekte\\Auto Bot 2.0\\Spotify\\Auto Bot - Main Chrome\\Ayyhook Loader\\Ayy Hook\\bin\\Release\\Auto_Bot_Client.exe","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeSuccess","Answer":0,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeRestart","Answer":3010,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//RestartRequired","Answer":false,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ContinueInstall","Answer":true,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandLine","Answer":"cmd /c \"auto_bot_client.exe\"","IsActive":true}]]
+5/28/2020 2:39:49 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+5/28/2020 2:39:49 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+5/28/2020 2:39:49 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+5/28/2020 2:39:49 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:49 PM Info !SetupCertificates, Value: true
+5/28/2020 2:39:49 PM Info Certificates//RootCertificates, Value: []
+5/28/2020 2:39:49 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:39:49 PM Info !createUser, Value: true
+5/28/2020 2:39:49 PM Info !localuser_usergroup, Value: 1
+5/28/2020 2:39:49 PM Info !autoLogon, Value: true
+5/28/2020 2:39:49 PM Info SMISettings//AutoLogon//Enable, Value: 1
+5/28/2020 2:39:49 PM Info SMISettings//ShellLauncher//Enable, Value: 
+5/28/2020 2:39:49 PM Info AssignedAccess//AssignedAccessSettings, Value: {"Account":"Auto Bot", "AUMID":""}
+5/28/2020 2:39:49 PM Info Accounts//Users, Value: Auto Bot
+5/28/2020 2:39:49 PM Info SMISettings//AutoLogon//UserName, Value: Auto Bot
+5/28/2020 2:39:49 PM Info !localuser_password, Value: Autobot123!
+5/28/2020 2:39:49 PM Info SMISettings//AutoLogon//Password, Value: Autobot123!
+5/28/2020 2:39:49 PM Info !kioskAppType, Value: Classic Windows App
+5/28/2020 2:39:49 PM Info !isUniversalApp, Value: false
+5/28/2020 2:39:49 PM Info !kioskUserName, Value: Auto Bot
+5/28/2020 2:39:49 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings, Value: Auto Bot
+5/28/2020 2:39:49 PM Info Accounts//Users//Auto Bot//Password, Value: Autobot123!
+5/28/2020 2:39:49 PM Info Accounts//Users//Auto Bot//UserGroup, Value: 1
+5/28/2020 2:39:49 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//LocalUserShellSetting//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:39:49 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//Auto Bot//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:39:49 PM Info FAILURE
+5/28/2020 2:39:49 PM Error Unexpected error occurred: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: Parameteranswer cannot be null
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass37_0.<SaveProject>b__0(ConfigTemplateAnswer templateAns)
+   bei Microsoft.Windows.ICD.Common.Extensions.ForEach[T](IEnumerable`1 enumeration, Action`1 action)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.SaveProject(IProject project, ConfigTemplateAnswer[] templateAnswers, String answerMetadata, Boolean closeProject)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass35_0.<SaveActiveProjectAsync>b__0()
+   bei System.Threading.Tasks.Task`1.InnerInvoke()
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<SaveActiveProjectAsync>d__35.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<BuildAsync>d__2.MoveNext()
+5/28/2020 2:39:49 PM Info Sent message to all clients for project 503b84ac-c67b-44ab-9deb-ca9a8358af99
+5/28/2020 2:39:53 PM Info Attempting to open package in associated ppkg application
+5/28/2020 2:43:16 PM Info Clear all Config Template answers
+5/28/2020 2:43:16 PM Info Save Config Template answers for active project
+5/28/2020 2:43:16 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:16 PM Info !EnableSharedPC, Value: false
+5/28/2020 2:43:16 PM Info !enableDeviceSharing_display, Value: 
+5/28/2020 2:43:16 PM Info !disableDeviceSharing, Value: 
+5/28/2020 2:43:16 PM Info SharedPC//EnableSharedPCMode, Value: true
+5/28/2020 2:43:16 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+5/28/2020 2:43:16 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+5/28/2020 2:43:16 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+5/28/2020 2:43:16 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+5/28/2020 2:43:16 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+5/28/2020 2:43:16 PM Info SharedPC//ConfigureApplications, Value: true
+5/28/2020 2:43:16 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+5/28/2020 2:43:16 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+5/28/2020 2:43:16 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+5/28/2020 2:43:16 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+5/28/2020 2:43:16 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+5/28/2020 2:43:16 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+5/28/2020 2:43:16 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+5/28/2020 2:43:16 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+5/28/2020 2:43:16 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+5/28/2020 2:43:16 PM Info !EnableCleanPC, Value: false
+5/28/2020 2:43:16 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+5/28/2020 2:43:16 PM Info !EnableCleanPcDisplayFalse, Value: 
+5/28/2020 2:43:16 PM Info OOBE/Desktop/HideOOBE, Value: true
+5/28/2020 2:43:16 PM Info Accounts//ComputerAccount//ComputerName, Value: Auto_Bot_VM
+5/28/2020 2:43:16 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:16 PM Info !ConfigureWiFi, Value: false
+5/28/2020 2:43:16 PM Info !configureWiFi_transparent, Value: 
+5/28/2020 2:43:16 PM Info !SecurityType, Value: 
+5/28/2020 2:43:16 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:16 PM Info !domainJoin, Value: domainJoin.3
+5/28/2020 2:43:16 PM Info bprtExpiry, Value: 2020-11-24T12:34:01.480Z
+5/28/2020 2:43:16 PM Info !admin_usergroup, Value: 2
+5/28/2020 2:43:16 PM Info Accounts//Users, Value: autobot
+5/28/2020 2:43:16 PM Info !admin_password, Value: Autobot123!
+5/28/2020 2:43:16 PM Info Accounts//Users//autobot//Password, Value: Autobot123!
+5/28/2020 2:43:16 PM Info Accounts//Users//autobot//UserGroup, Value: 2
+5/28/2020 2:43:16 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:16 PM Info !SetupApplications, Value: true
+5/28/2020 2:43:16 PM Info ProvisioningCommands//PrimaryContext//Command, Value: [[{"Path":"ProvisioningCommands//PrimaryContext//Command//ListItemName","Answer":"Auto Bot Client","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandFile","Answer":"C:\\Users\\user\\Cloud\\Projekte\\Auto Bot 2.0\\Spotify\\Auto Bot - Main Chrome\\Ayyhook Loader\\Ayy Hook\\bin\\Release\\Auto_Bot_Client.exe","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeSuccess","Answer":0,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeRestart","Answer":3010,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//RestartRequired","Answer":false,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ContinueInstall","Answer":true,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandLine","Answer":"cmd /c \"auto_bot_client.exe\"","IsActive":true}]]
+5/28/2020 2:43:16 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+5/28/2020 2:43:16 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+5/28/2020 2:43:16 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+5/28/2020 2:43:16 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:16 PM Info !SetupCertificates, Value: true
+5/28/2020 2:43:16 PM Info Certificates//RootCertificates, Value: []
+5/28/2020 2:43:16 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:16 PM Info !createUser, Value: true
+5/28/2020 2:43:16 PM Info !localuser_usergroup, Value: 1
+5/28/2020 2:43:16 PM Info !autoLogon, Value: true
+5/28/2020 2:43:16 PM Info SMISettings//AutoLogon//Enable, Value: 1
+5/28/2020 2:43:16 PM Info SMISettings//ShellLauncher//Enable, Value: 
+5/28/2020 2:43:16 PM Info AssignedAccess//AssignedAccessSettings, Value: {"Account":"Auto Bot", "AUMID":""}
+5/28/2020 2:43:16 PM Info Accounts//Users, Value: Auto Bot
+5/28/2020 2:43:16 PM Info SMISettings//AutoLogon//UserName, Value: Auto Bot
+5/28/2020 2:43:16 PM Info !localuser_password, Value: Autobot123!
+5/28/2020 2:43:16 PM Info SMISettings//AutoLogon//Password, Value: Autobot123!
+5/28/2020 2:43:16 PM Info !kioskAppType, Value: Classic Windows App
+5/28/2020 2:43:16 PM Info !isUniversalApp, Value: false
+5/28/2020 2:43:16 PM Info !kioskUserName, Value: Auto Bot
+5/28/2020 2:43:16 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings, Value: Auto Bot
+5/28/2020 2:43:16 PM Info Accounts//Users//Auto Bot//Password, Value: Autobot123!
+5/28/2020 2:43:16 PM Info Accounts//Users//Auto Bot//UserGroup, Value: 1
+5/28/2020 2:43:16 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//LocalUserShellSetting//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:43:16 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//Auto Bot//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:43:16 PM Info FAILURE
+5/28/2020 2:43:16 PM Error Unexpected error occurred: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: Parameteranswer cannot be null
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass37_0.<SaveProject>b__0(ConfigTemplateAnswer templateAns)
+   bei Microsoft.Windows.ICD.Common.Extensions.ForEach[T](IEnumerable`1 enumeration, Action`1 action)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.SaveProject(IProject project, ConfigTemplateAnswer[] templateAnswers, String answerMetadata, Boolean closeProject)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass35_0.<SaveActiveProjectAsync>b__0()
+   bei System.Threading.Tasks.Task`1.InnerInvoke()
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<SaveActiveProjectAsync>d__35.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<BuildAsync>d__2.MoveNext()
+5/28/2020 2:43:16 PM Info Sent message to all clients for project 503b84ac-c67b-44ab-9deb-ca9a8358af99
+5/28/2020 2:43:50 PM Info Clear all Config Template answers
+5/28/2020 2:43:50 PM Info Save Config Template answers for active project
+5/28/2020 2:43:50 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:50 PM Info !EnableSharedPC, Value: false
+5/28/2020 2:43:50 PM Info !enableDeviceSharing_display, Value: 
+5/28/2020 2:43:50 PM Info !disableDeviceSharing, Value: 
+5/28/2020 2:43:50 PM Info SharedPC//EnableSharedPCMode, Value: true
+5/28/2020 2:43:50 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+5/28/2020 2:43:50 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+5/28/2020 2:43:50 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+5/28/2020 2:43:50 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+5/28/2020 2:43:50 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+5/28/2020 2:43:50 PM Info SharedPC//ConfigureApplications, Value: true
+5/28/2020 2:43:50 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+5/28/2020 2:43:50 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+5/28/2020 2:43:50 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+5/28/2020 2:43:50 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+5/28/2020 2:43:50 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+5/28/2020 2:43:50 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+5/28/2020 2:43:50 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+5/28/2020 2:43:50 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+5/28/2020 2:43:50 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+5/28/2020 2:43:50 PM Info !EnableCleanPC, Value: false
+5/28/2020 2:43:50 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+5/28/2020 2:43:50 PM Info !EnableCleanPcDisplayFalse, Value: 
+5/28/2020 2:43:50 PM Info OOBE/Desktop/HideOOBE, Value: true
+5/28/2020 2:43:50 PM Info Accounts//ComputerAccount//ComputerName, Value: Auto_Bot_VM
+5/28/2020 2:43:50 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:50 PM Info !ConfigureWiFi, Value: false
+5/28/2020 2:43:50 PM Info !configureWiFi_transparent, Value: 
+5/28/2020 2:43:50 PM Info !SecurityType, Value: 
+5/28/2020 2:43:50 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:50 PM Info !domainJoin, Value: domainJoin.3
+5/28/2020 2:43:50 PM Info bprtExpiry, Value: 2020-11-24T12:34:01.480Z
+5/28/2020 2:43:50 PM Info !admin_usergroup, Value: 2
+5/28/2020 2:43:50 PM Info Accounts//Users, Value: autobot
+5/28/2020 2:43:50 PM Info !admin_password, Value: Autobot123!
+5/28/2020 2:43:50 PM Info Accounts//Users//autobot//Password, Value: Autobot123!
+5/28/2020 2:43:50 PM Info Accounts//Users//autobot//UserGroup, Value: 2
+5/28/2020 2:43:50 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:50 PM Info !SetupApplications, Value: true
+5/28/2020 2:43:50 PM Info ProvisioningCommands//PrimaryContext//Command, Value: [[{"Path":"ProvisioningCommands//PrimaryContext//Command//ListItemName","Answer":"Auto Bot Client","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandFile","Answer":"C:\\Users\\user\\Cloud\\Projekte\\Auto Bot 2.0\\Spotify\\Auto Bot - Main Chrome\\Ayyhook Loader\\Ayy Hook\\bin\\Release\\Auto_Bot_Client.exe","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeSuccess","Answer":0,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeRestart","Answer":3010,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//RestartRequired","Answer":false,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ContinueInstall","Answer":true,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandLine","Answer":"cmd /c \"auto_bot_client.exe\"","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//DependencyPackages","Answer":"[{\"Path\":\"ProvisioningCommands//PrimaryContext//Command//DependencyPackages//Dependency\",\"Answer\":\"C:\\\\Users\\\\user\\\\Cloud\\\\Projekte\\\\Auto Bot 2.0\\\\Spotify\\\\Auto Bot - Main Chrome\\\\Ayyhook Loader\\\\Ayy Hook\\\\bin\\\\Release\\\\Auto_Bot_Client.exe\",\"IsActive\":true}]","IsActive":true}]]
+5/28/2020 2:43:50 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+5/28/2020 2:43:50 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+5/28/2020 2:43:50 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+5/28/2020 2:43:50 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:50 PM Info !SetupCertificates, Value: true
+5/28/2020 2:43:50 PM Info Certificates//RootCertificates, Value: []
+5/28/2020 2:43:50 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:50 PM Info !createUser, Value: true
+5/28/2020 2:43:50 PM Info !localuser_usergroup, Value: 1
+5/28/2020 2:43:50 PM Info !autoLogon, Value: true
+5/28/2020 2:43:50 PM Info SMISettings//AutoLogon//Enable, Value: 1
+5/28/2020 2:43:50 PM Info SMISettings//ShellLauncher//Enable, Value: 
+5/28/2020 2:43:50 PM Info AssignedAccess//AssignedAccessSettings, Value: {"Account":"Auto Bot", "AUMID":""}
+5/28/2020 2:43:50 PM Info Accounts//Users, Value: Auto Bot
+5/28/2020 2:43:50 PM Info SMISettings//AutoLogon//UserName, Value: Auto Bot
+5/28/2020 2:43:50 PM Info !localuser_password, Value: Autobot123!
+5/28/2020 2:43:50 PM Info SMISettings//AutoLogon//Password, Value: Autobot123!
+5/28/2020 2:43:50 PM Info !kioskAppType, Value: Classic Windows App
+5/28/2020 2:43:50 PM Info !isUniversalApp, Value: false
+5/28/2020 2:43:50 PM Info !kioskUserName, Value: Auto Bot
+5/28/2020 2:43:50 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings, Value: Auto Bot
+5/28/2020 2:43:50 PM Info Accounts//Users//Auto Bot//Password, Value: Autobot123!
+5/28/2020 2:43:50 PM Info Accounts//Users//Auto Bot//UserGroup, Value: 1
+5/28/2020 2:43:50 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//LocalUserShellSetting//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:43:50 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//Auto Bot//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:43:50 PM Info FAILURE
+5/28/2020 2:43:50 PM Error Unexpected error occurred: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: Parameteranswer cannot be null
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass37_0.<SaveProject>b__0(ConfigTemplateAnswer templateAns)
+   bei Microsoft.Windows.ICD.Common.Extensions.ForEach[T](IEnumerable`1 enumeration, Action`1 action)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.SaveProject(IProject project, ConfigTemplateAnswer[] templateAnswers, String answerMetadata, Boolean closeProject)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass35_0.<SaveActiveProjectAsync>b__0()
+   bei System.Threading.Tasks.Task`1.InnerInvoke()
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<SaveActiveProjectAsync>d__35.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<BuildAsync>d__2.MoveNext()
+5/28/2020 2:43:50 PM Info Sent message to all clients for project 503b84ac-c67b-44ab-9deb-ca9a8358af99
+5/28/2020 2:43:51 PM Info Clear all Config Template answers
+5/28/2020 2:43:51 PM Info Save Config Template answers for active project
+5/28/2020 2:43:51 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:51 PM Info !EnableSharedPC, Value: false
+5/28/2020 2:43:51 PM Info !enableDeviceSharing_display, Value: 
+5/28/2020 2:43:51 PM Info !disableDeviceSharing, Value: 
+5/28/2020 2:43:51 PM Info SharedPC//EnableSharedPCMode, Value: true
+5/28/2020 2:43:51 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+5/28/2020 2:43:51 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+5/28/2020 2:43:51 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+5/28/2020 2:43:51 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+5/28/2020 2:43:51 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+5/28/2020 2:43:51 PM Info SharedPC//ConfigureApplications, Value: true
+5/28/2020 2:43:51 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+5/28/2020 2:43:51 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+5/28/2020 2:43:51 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+5/28/2020 2:43:51 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+5/28/2020 2:43:51 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+5/28/2020 2:43:51 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+5/28/2020 2:43:51 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+5/28/2020 2:43:51 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+5/28/2020 2:43:51 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+5/28/2020 2:43:51 PM Info !EnableCleanPC, Value: false
+5/28/2020 2:43:51 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+5/28/2020 2:43:51 PM Info !EnableCleanPcDisplayFalse, Value: 
+5/28/2020 2:43:51 PM Info OOBE/Desktop/HideOOBE, Value: true
+5/28/2020 2:43:51 PM Info Accounts//ComputerAccount//ComputerName, Value: Auto_Bot_VM
+5/28/2020 2:43:51 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:51 PM Info !ConfigureWiFi, Value: false
+5/28/2020 2:43:51 PM Info !configureWiFi_transparent, Value: 
+5/28/2020 2:43:51 PM Info !SecurityType, Value: 
+5/28/2020 2:43:51 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:51 PM Info !domainJoin, Value: domainJoin.3
+5/28/2020 2:43:51 PM Info bprtExpiry, Value: 2020-11-24T12:34:01.480Z
+5/28/2020 2:43:51 PM Info !admin_usergroup, Value: 2
+5/28/2020 2:43:51 PM Info Accounts//Users, Value: autobot
+5/28/2020 2:43:51 PM Info !admin_password, Value: Autobot123!
+5/28/2020 2:43:51 PM Info Accounts//Users//autobot//Password, Value: Autobot123!
+5/28/2020 2:43:51 PM Info Accounts//Users//autobot//UserGroup, Value: 2
+5/28/2020 2:43:51 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:51 PM Info !SetupApplications, Value: true
+5/28/2020 2:43:51 PM Info ProvisioningCommands//PrimaryContext//Command, Value: [[{"Path":"ProvisioningCommands//PrimaryContext//Command//ListItemName","Answer":"Auto Bot Client","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandFile","Answer":"C:\\Users\\user\\Cloud\\Projekte\\Auto Bot 2.0\\Spotify\\Auto Bot - Main Chrome\\Ayyhook Loader\\Ayy Hook\\bin\\Release\\Auto_Bot_Client.exe","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeSuccess","Answer":0,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeRestart","Answer":3010,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//RestartRequired","Answer":false,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ContinueInstall","Answer":true,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandLine","Answer":"cmd /c \"auto_bot_client.exe\"","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//DependencyPackages","Answer":"[{\"Path\":\"ProvisioningCommands//PrimaryContext//Command//DependencyPackages//Dependency\",\"Answer\":\"C:\\\\Users\\\\user\\\\Cloud\\\\Projekte\\\\Auto Bot 2.0\\\\Spotify\\\\Auto Bot - Main Chrome\\\\Ayyhook Loader\\\\Ayy Hook\\\\bin\\\\Release\\\\Auto_Bot_Client.exe\",\"IsActive\":true}]","IsActive":true}]]
+5/28/2020 2:43:51 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+5/28/2020 2:43:51 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+5/28/2020 2:43:51 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+5/28/2020 2:43:51 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:51 PM Info !SetupCertificates, Value: true
+5/28/2020 2:43:51 PM Info Certificates//RootCertificates, Value: []
+5/28/2020 2:43:51 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:43:51 PM Info !createUser, Value: true
+5/28/2020 2:43:51 PM Info !localuser_usergroup, Value: 1
+5/28/2020 2:43:51 PM Info !autoLogon, Value: true
+5/28/2020 2:43:51 PM Info SMISettings//AutoLogon//Enable, Value: 1
+5/28/2020 2:43:51 PM Info SMISettings//ShellLauncher//Enable, Value: 
+5/28/2020 2:43:51 PM Info AssignedAccess//AssignedAccessSettings, Value: {"Account":"Auto Bot", "AUMID":""}
+5/28/2020 2:43:51 PM Info Accounts//Users, Value: Auto Bot
+5/28/2020 2:43:51 PM Info SMISettings//AutoLogon//UserName, Value: Auto Bot
+5/28/2020 2:43:51 PM Info !localuser_password, Value: Autobot123!
+5/28/2020 2:43:51 PM Info SMISettings//AutoLogon//Password, Value: Autobot123!
+5/28/2020 2:43:51 PM Info !kioskAppType, Value: Classic Windows App
+5/28/2020 2:43:51 PM Info !isUniversalApp, Value: false
+5/28/2020 2:43:51 PM Info !kioskUserName, Value: Auto Bot
+5/28/2020 2:43:51 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings, Value: Auto Bot
+5/28/2020 2:43:51 PM Info Accounts//Users//Auto Bot//Password, Value: Autobot123!
+5/28/2020 2:43:51 PM Info Accounts//Users//Auto Bot//UserGroup, Value: 1
+5/28/2020 2:43:51 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//LocalUserShellSetting//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:43:51 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//Auto Bot//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:43:51 PM Info FAILURE
+5/28/2020 2:43:51 PM Error Unexpected error occurred: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: Parameteranswer cannot be null
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass37_0.<SaveProject>b__0(ConfigTemplateAnswer templateAns)
+   bei Microsoft.Windows.ICD.Common.Extensions.ForEach[T](IEnumerable`1 enumeration, Action`1 action)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.SaveProject(IProject project, ConfigTemplateAnswer[] templateAnswers, String answerMetadata, Boolean closeProject)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass35_0.<SaveActiveProjectAsync>b__0()
+   bei System.Threading.Tasks.Task`1.InnerInvoke()
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<SaveActiveProjectAsync>d__35.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<BuildAsync>d__2.MoveNext()
+5/28/2020 2:43:51 PM Info Sent message to all clients for project 503b84ac-c67b-44ab-9deb-ca9a8358af99
+5/28/2020 2:53:37 PM Info Clear all Config Template answers
+5/28/2020 2:53:37 PM Info Save Config Template answers for active project
+5/28/2020 2:53:37 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:37 PM Info !EnableSharedPC, Value: false
+5/28/2020 2:53:37 PM Info !enableDeviceSharing_display, Value: 
+5/28/2020 2:53:37 PM Info !disableDeviceSharing, Value: 
+5/28/2020 2:53:37 PM Info SharedPC//EnableSharedPCMode, Value: true
+5/28/2020 2:53:37 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+5/28/2020 2:53:37 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+5/28/2020 2:53:37 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+5/28/2020 2:53:37 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+5/28/2020 2:53:37 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+5/28/2020 2:53:37 PM Info SharedPC//ConfigureApplications, Value: true
+5/28/2020 2:53:37 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+5/28/2020 2:53:37 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+5/28/2020 2:53:37 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+5/28/2020 2:53:37 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+5/28/2020 2:53:37 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+5/28/2020 2:53:37 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+5/28/2020 2:53:37 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+5/28/2020 2:53:37 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+5/28/2020 2:53:37 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+5/28/2020 2:53:37 PM Info !EnableCleanPC, Value: false
+5/28/2020 2:53:37 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+5/28/2020 2:53:37 PM Info !EnableCleanPcDisplayFalse, Value: 
+5/28/2020 2:53:37 PM Info OOBE/Desktop/HideOOBE, Value: true
+5/28/2020 2:53:37 PM Info Accounts//ComputerAccount//ComputerName, Value: Auto_Bot_VM
+5/28/2020 2:53:37 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:37 PM Info !ConfigureWiFi, Value: false
+5/28/2020 2:53:37 PM Info !configureWiFi_transparent, Value: 
+5/28/2020 2:53:37 PM Info !SecurityType, Value: 
+5/28/2020 2:53:37 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:37 PM Info !domainJoin, Value: domainJoin.3
+5/28/2020 2:53:37 PM Info bprtExpiry, Value: 2020-11-24T12:34:01.480Z
+5/28/2020 2:53:37 PM Info !admin_usergroup, Value: 2
+5/28/2020 2:53:37 PM Info Accounts//Users, Value: autobot
+5/28/2020 2:53:37 PM Info !admin_password, Value: Autobot123!
+5/28/2020 2:53:37 PM Info Accounts//Users//autobot//Password, Value: Autobot123!
+5/28/2020 2:53:37 PM Info Accounts//Users//autobot//UserGroup, Value: 2
+5/28/2020 2:53:37 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:37 PM Info !SetupApplications, Value: true
+5/28/2020 2:53:37 PM Info ProvisioningCommands//PrimaryContext//Command, Value: [[{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandFile","Answer":"C:\\Users\\user\\Cloud\\Projekte\\Auto Bot 2.0\\Spotify\\Auto Bot - Main Chrome\\Ayyhook Loader\\Ayy Hook\\bin\\Release\\update.exe","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeSuccess","Answer":0,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeRestart","Answer":3010,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//RestartRequired","Answer":false,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ContinueInstall","Answer":true,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandLine","Answer":"cmd /c \"update.exe\"","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ListItemName","Answer":"app","IsActive":true}]]
+5/28/2020 2:53:37 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+5/28/2020 2:53:37 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+5/28/2020 2:53:37 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+5/28/2020 2:53:37 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:37 PM Info !SetupCertificates, Value: true
+5/28/2020 2:53:37 PM Info Certificates//RootCertificates, Value: []
+5/28/2020 2:53:37 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:37 PM Info !createUser, Value: true
+5/28/2020 2:53:37 PM Info !localuser_usergroup, Value: 1
+5/28/2020 2:53:37 PM Info !autoLogon, Value: true
+5/28/2020 2:53:37 PM Info SMISettings//AutoLogon//Enable, Value: 1
+5/28/2020 2:53:37 PM Info SMISettings//ShellLauncher//Enable, Value: 
+5/28/2020 2:53:37 PM Info AssignedAccess//AssignedAccessSettings, Value: {"Account":"Auto Bot", "AUMID":""}
+5/28/2020 2:53:37 PM Info Accounts//Users, Value: Auto Bot
+5/28/2020 2:53:37 PM Info SMISettings//AutoLogon//UserName, Value: Auto Bot
+5/28/2020 2:53:37 PM Info !localuser_password, Value: Autobot123!
+5/28/2020 2:53:37 PM Info SMISettings//AutoLogon//Password, Value: Autobot123!
+5/28/2020 2:53:37 PM Info !kioskAppType, Value: Classic Windows App
+5/28/2020 2:53:37 PM Info !isUniversalApp, Value: false
+5/28/2020 2:53:37 PM Info !kioskUserName, Value: Auto Bot
+5/28/2020 2:53:37 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings, Value: Auto Bot
+5/28/2020 2:53:37 PM Info Accounts//Users//Auto Bot//Password, Value: Autobot123!
+5/28/2020 2:53:37 PM Info Accounts//Users//Auto Bot//UserGroup, Value: 1
+5/28/2020 2:53:37 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//LocalUserShellSetting//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:53:37 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//Auto Bot//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:53:37 PM Info FAILURE
+5/28/2020 2:53:37 PM Error Unexpected error occurred: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: Parameteranswer cannot be null
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass37_0.<SaveProject>b__0(ConfigTemplateAnswer templateAns)
+   bei Microsoft.Windows.ICD.Common.Extensions.ForEach[T](IEnumerable`1 enumeration, Action`1 action)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.SaveProject(IProject project, ConfigTemplateAnswer[] templateAnswers, String answerMetadata, Boolean closeProject)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass35_0.<SaveActiveProjectAsync>b__0()
+   bei System.Threading.Tasks.Task`1.InnerInvoke()
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<SaveActiveProjectAsync>d__35.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<BuildAsync>d__2.MoveNext()
+5/28/2020 2:53:37 PM Info Sent message to all clients for project 503b84ac-c67b-44ab-9deb-ca9a8358af99
+5/28/2020 2:53:40 PM Info Clear all Config Template answers
+5/28/2020 2:53:40 PM Info Save Config Template answers for active project
+5/28/2020 2:53:40 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:40 PM Info !EnableSharedPC, Value: false
+5/28/2020 2:53:40 PM Info !enableDeviceSharing_display, Value: 
+5/28/2020 2:53:40 PM Info !disableDeviceSharing, Value: 
+5/28/2020 2:53:40 PM Info SharedPC//EnableSharedPCMode, Value: true
+5/28/2020 2:53:40 PM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+5/28/2020 2:53:40 PM Info SharedPC//AccountManagement//AccountModel, Value: 2
+5/28/2020 2:53:40 PM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+5/28/2020 2:53:40 PM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+5/28/2020 2:53:40 PM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+5/28/2020 2:53:40 PM Info SharedPC//ConfigureApplications, Value: true
+5/28/2020 2:53:40 PM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+5/28/2020 2:53:40 PM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+5/28/2020 2:53:40 PM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+5/28/2020 2:53:40 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+5/28/2020 2:53:40 PM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+5/28/2020 2:53:40 PM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+5/28/2020 2:53:40 PM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+5/28/2020 2:53:40 PM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+5/28/2020 2:53:40 PM Info Policies//Update//AllowAutoUpdate, Value: 4
+5/28/2020 2:53:40 PM Info !EnableCleanPC, Value: false
+5/28/2020 2:53:40 PM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+5/28/2020 2:53:40 PM Info !EnableCleanPcDisplayFalse, Value: 
+5/28/2020 2:53:40 PM Info OOBE/Desktop/HideOOBE, Value: true
+5/28/2020 2:53:40 PM Info Accounts//ComputerAccount//ComputerName, Value: Auto_Bot_VM
+5/28/2020 2:53:40 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:40 PM Info !ConfigureWiFi, Value: false
+5/28/2020 2:53:40 PM Info !configureWiFi_transparent, Value: 
+5/28/2020 2:53:40 PM Info !SecurityType, Value: 
+5/28/2020 2:53:40 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:40 PM Info !domainJoin, Value: domainJoin.3
+5/28/2020 2:53:40 PM Info bprtExpiry, Value: 2020-11-24T12:34:01.480Z
+5/28/2020 2:53:40 PM Info !admin_usergroup, Value: 2
+5/28/2020 2:53:40 PM Info Accounts//Users, Value: autobot
+5/28/2020 2:53:40 PM Info !admin_password, Value: Autobot123!
+5/28/2020 2:53:40 PM Info Accounts//Users//autobot//Password, Value: Autobot123!
+5/28/2020 2:53:40 PM Info Accounts//Users//autobot//UserGroup, Value: 2
+5/28/2020 2:53:40 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:40 PM Info !SetupApplications, Value: true
+5/28/2020 2:53:40 PM Info ProvisioningCommands//PrimaryContext//Command, Value: [[{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandFile","Answer":"C:\\Users\\user\\Cloud\\Projekte\\Auto Bot 2.0\\Spotify\\Auto Bot - Main Chrome\\Ayyhook Loader\\Ayy Hook\\bin\\Release\\update.exe","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeSuccess","Answer":0,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ReturnCodeRestart","Answer":3010,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//RestartRequired","Answer":false,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ContinueInstall","Answer":true,"IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//CommandLine","Answer":"cmd /c \"update.exe\"","IsActive":true},{"Path":"ProvisioningCommands//PrimaryContext//Command//ListItemName","Answer":"app","IsActive":true}]]
+5/28/2020 2:53:40 PM Info UniversalAppInstall//DeviceContextApp, Value: []
+5/28/2020 2:53:40 PM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+5/28/2020 2:53:40 PM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+5/28/2020 2:53:40 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:40 PM Info !SetupCertificates, Value: true
+5/28/2020 2:53:40 PM Info Certificates//RootCertificates, Value: []
+5/28/2020 2:53:40 PM Info !ConfigureTemplate, Value: true
+5/28/2020 2:53:40 PM Info !createUser, Value: true
+5/28/2020 2:53:40 PM Info !localuser_usergroup, Value: 1
+5/28/2020 2:53:40 PM Info !autoLogon, Value: true
+5/28/2020 2:53:40 PM Info SMISettings//AutoLogon//Enable, Value: 1
+5/28/2020 2:53:40 PM Info SMISettings//ShellLauncher//Enable, Value: 
+5/28/2020 2:53:40 PM Info AssignedAccess//AssignedAccessSettings, Value: {"Account":"Auto Bot", "AUMID":""}
+5/28/2020 2:53:40 PM Info Accounts//Users, Value: Auto Bot
+5/28/2020 2:53:40 PM Info SMISettings//AutoLogon//UserName, Value: Auto Bot
+5/28/2020 2:53:40 PM Info !localuser_password, Value: Autobot123!
+5/28/2020 2:53:40 PM Info SMISettings//AutoLogon//Password, Value: Autobot123!
+5/28/2020 2:53:40 PM Info !kioskAppType, Value: Classic Windows App
+5/28/2020 2:53:40 PM Info !isUniversalApp, Value: false
+5/28/2020 2:53:40 PM Info !kioskUserName, Value: Auto Bot
+5/28/2020 2:53:40 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings, Value: Auto Bot
+5/28/2020 2:53:40 PM Info Accounts//Users//Auto Bot//Password, Value: Autobot123!
+5/28/2020 2:53:40 PM Info Accounts//Users//Auto Bot//UserGroup, Value: 1
+5/28/2020 2:53:40 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//LocalUserShellSetting//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:53:40 PM Info SMISettings//ShellLauncher//UserSpecificSettings//LocalUserSpecificSettings//Auto Bot//UserCustomShell, Value: c:\Auto_Bot_Starter.exe
+5/28/2020 2:53:40 PM Info FAILURE
+5/28/2020 2:53:40 PM Error Unexpected error occurred: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: Parameteranswer cannot be null
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass37_0.<SaveProject>b__0(ConfigTemplateAnswer templateAns)
+   bei Microsoft.Windows.ICD.Common.Extensions.ForEach[T](IEnumerable`1 enumeration, Action`1 action)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.SaveProject(IProject project, ConfigTemplateAnswer[] templateAnswers, String answerMetadata, Boolean closeProject)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<>c__DisplayClass35_0.<SaveActiveProjectAsync>b__0()
+   bei System.Threading.Tasks.Task`1.InnerInvoke()
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<SaveActiveProjectAsync>d__35.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Microsoft.Windows.ICD.WebApi.Controllers.TemplateAnswerController.<BuildAsync>d__2.MoveNext()
+5/28/2020 2:53:40 PM Info Sent message to all clients for project 503b84ac-c67b-44ab-9deb-ca9a8358af99

@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Auto Bot - Updater\Auto Bot - Updater\bin\Debug\Auto Bot - Updater.exe.config
+C:\Users\User\source\repos\Auto Bot - Updater\Auto Bot - Updater\bin\Debug\Auto Bot - Updater.exe
+C:\Users\User\source\repos\Auto Bot - Updater\Auto Bot - Updater\obj\Debug\Auto Bot - Updater.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Auto Bot - Updater\Auto Bot - Updater\obj\Debug\Auto Bot - Updater.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Auto Bot - Updater\Auto Bot - Updater\obj\Debug\Auto Bot - Updater.exe

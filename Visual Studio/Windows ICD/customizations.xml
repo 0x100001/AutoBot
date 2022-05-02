@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WindowsCustomizations>
+  <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
+    <ID>{503b84ac-c67b-44ab-9deb-ca9a8358af99}</ID>
+    <Name>Auto Bot Streaming Client</Name>
+    <Version>1.0</Version>
+    <OwnerType>OEM</OwnerType>
+    <Rank>0</Rank>
+    <Notes />
+  </PackageConfig>
+  <Settings xmlns="urn:schemas-microsoft-com:windows-provisioning" />
+</WindowsCustomizations>

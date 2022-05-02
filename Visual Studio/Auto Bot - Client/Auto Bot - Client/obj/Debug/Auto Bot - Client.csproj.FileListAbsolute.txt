@@ -1,0 +1,50 @@
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto Bot - Client.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto_Bot___Client.Main_Form.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto_Bot___Client.Properties.Resources.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto Bot - Client.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto Bot - Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Auto Bot - Client.exe.config
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Auto Bot - Client.exe
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Auto Bot - Client.pdb
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Zstandard.Net.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Google.Protobuf.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Renci.SshNet.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto Bot - Client.csproj.CopyComplete
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto Bot - Client.exe
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto Bot - Client.pdb
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto_Bot___Client.Login_Form.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto_Bot___Client.Setup.Setup_Assistant.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto_Bot___Client.Player.Spotify_Form.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Debug\Auto_Bot___Client.Splash_Screen.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Debug\WebDriver.xml

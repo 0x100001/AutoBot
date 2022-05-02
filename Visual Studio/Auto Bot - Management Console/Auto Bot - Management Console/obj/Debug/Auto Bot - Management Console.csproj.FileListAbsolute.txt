@@ -1,0 +1,132 @@
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Auto Bot - Management Console.exe.config
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Auto Bot - Management Console.exe
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Auto Bot - Management Console.pdb
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Zstandard.Net.dll
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Google.Protobuf.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Renci.SshNet.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot___Management_Console.Main_Form.resources
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot___Management_Console.Properties.Resources.resources
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.CopyComplete
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.exe
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.pdb
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Simple_Mon_Management_Console.Helper.Form_Alert.resources
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Simple_Mon_Management_Console.Setup.Setup_Assistant_Database.resources
+C:\Users\User\source\repos\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Simple_Mon_Management_Console.Login_Form.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Auto Bot - Management Console.exe.config
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Auto Bot - Management Console.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Auto Bot - Management Console.pdb
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Guna.UI2.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MetroFramework.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MySql.Data.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\NAudio.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Buffers.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Memory.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\WebDriver.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MySql.Data.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\NAudio.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Buffers.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Memory.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\WebDriver.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.AssemblyReference.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot_Management_Console.Helper.Form_Alert.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot_Management_Console.Main_Form.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot___Management_Console.Properties.Resources.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot_Management_Console.Setup.Setup_Assistant_Database.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot_Management_Console.Login_Form.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.GenerateResource.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.CopyComplete
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.pdb
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Auto Bot - Management Console.exe.config
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Auto Bot - Management Console.exe
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Auto Bot - Management Console.pdb
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Google.Protobuf.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Guna.UI2.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MetroFramework.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MySql.Data.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\NAudio.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Renci.SshNet.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\WebDriver.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Zstandard.Net.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Google.Protobuf.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\MySql.Data.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\NAudio.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\Renci.SshNet.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\bin\Debug\WebDriver.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot_Management_Console.Helper.Form_Alert.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot_Management_Console.Main_Form.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot___Management_Console.Properties.Resources.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot_Management_Console.Setup.Setup_Assistant_Database.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto_Bot_Management_Console.Login_Form.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.csproj.CopyComplete
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.exe
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Management Console\Auto Bot - Management Console\obj\Debug\Auto Bot - Management Console.pdb

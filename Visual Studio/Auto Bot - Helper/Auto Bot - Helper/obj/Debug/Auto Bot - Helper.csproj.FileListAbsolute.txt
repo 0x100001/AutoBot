@@ -1,0 +1,11 @@
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\bin\Debug\Auto Bot - Helper.exe.config
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\bin\Debug\Auto Bot - Helper.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\bin\Debug\Auto Bot - Helper.pdb
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\obj\Debug\Auto Bot - Helper.csprojAssemblyReference.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\obj\Debug\Auto_Bot___Helper.Main_Form.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\obj\Debug\Auto_Bot___Helper.Properties.Resources.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\obj\Debug\Auto Bot - Helper.csproj.GenerateResource.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\obj\Debug\Auto Bot - Helper.csproj.CoreCompileInputs.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\obj\Debug\Auto Bot - Helper.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\obj\Debug\Auto Bot - Helper.pdb
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Helper\Auto Bot - Helper\obj\Debug\Cursor_Position.Cursor_XYZ.resources

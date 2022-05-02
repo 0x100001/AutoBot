@@ -1,0 +1,22 @@
+5/28/2020 2:32:17 PM Info ICD Started
+5/28/2020 2:32:20 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+5/28/2020 2:32:20 PM Warning Exception on reading AutoLaunchConfigScenarioId. Der Schlüssel AutoLaunchConfigScenarioId ist nicht im appSettings-Konfigurationsabschnitt vorhanden.
+5/28/2020 2:32:20 PM Warning Exception on reading SUSPCAriaIngestionKey. Der Schlüssel SUSPCAriaIngestionKey ist nicht im appSettings-Konfigurationsabschnitt vorhanden.
+5/28/2020 2:32:20 PM Warning Exception on reading ICDWindowTitle. Der Schlüssel ICDWindowTitle ist nicht im appSettings-Konfigurationsabschnitt vorhanden.
+5/28/2020 2:32:20 PM Warning Exception on reading ICDWindowHeight. Der Schlüssel ICDWindowHeight ist nicht im appSettings-Konfigurationsabschnitt vorhanden.
+5/28/2020 2:32:20 PM Warning Exception on reading ICDWindowWidth. Der Schlüssel ICDWindowWidth ist nicht im appSettings-Konfigurationsabschnitt vorhanden.
+5/28/2020 2:32:20 PM Warning Exception on reading ICDWindowMinHeight. Der Schlüssel ICDWindowMinHeight ist nicht im appSettings-Konfigurationsabschnitt vorhanden.
+5/28/2020 2:32:20 PM Warning Exception on reading ICDWindowMinWidth. Der Schlüssel ICDWindowMinWidth ist nicht im appSettings-Konfigurationsabschnitt vorhanden.
+5/28/2020 2:32:20 PM Warning Exception on reading ICDWindowState. Der Schlüssel ICDWindowState ist nicht im appSettings-Konfigurationsabschnitt vorhanden.
+5/28/2020 2:33:23 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2020.507.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+5/28/2020 2:33:23 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+5/28/2020 2:33:23 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2020.507.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2020.507.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+5/28/2020 2:33:23 PM Info Loaded settings from Windows Unknown Unknown
+5/28/2020 2:33:23 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2020.507.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+5/28/2020 2:33:23 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+5/28/2020 2:33:23 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2020.507.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2020.507.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+5/28/2020 2:33:23 PM Info Loaded settings from Windows Unknown Unknown
+5/28/2020 2:43:09 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2020.507.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+5/28/2020 2:43:09 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+5/28/2020 2:43:09 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2020.507.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2020.507.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+5/28/2020 2:43:09 PM Info Loaded settings from Windows Unknown Unknown

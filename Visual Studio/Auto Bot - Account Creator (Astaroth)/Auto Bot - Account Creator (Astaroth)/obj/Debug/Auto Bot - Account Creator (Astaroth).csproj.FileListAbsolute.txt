@@ -1,0 +1,14 @@
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\bin\Debug\Auto Bot - Account Creator (Astaroth).exe.config
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\bin\Debug\Auto Bot - Account Creator (Astaroth).exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\bin\Debug\Auto Bot - Account Creator (Astaroth).pdb
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\bin\Debug\Guna.UI2.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\bin\Debug\WebDriver.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\bin\Debug\WebDriver.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\obj\Debug\Auto_Bot___Account_Creator__Astaroth_.Main_Form.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\obj\Debug\Auto_Bot___Account_Creator__Astaroth_.Properties.Resources.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\obj\Debug\Auto Bot - Account Creator (Astaroth).csproj.GenerateResource.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\obj\Debug\Auto Bot - Account Creator (Astaroth).csproj.CoreCompileInputs.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\obj\Debug\Auto Bot - Account Creator (Astaroth).csproj.CopyComplete
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\obj\Debug\Auto Bot - Account Creator (Astaroth).exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\obj\Debug\Auto Bot - Account Creator (Astaroth).pdb
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Account Creator (Astaroth)\Auto Bot - Account Creator (Astaroth)\obj\Debug\Auto Bot - Account Creator (Astaroth).csproj.AssemblyReference.cache

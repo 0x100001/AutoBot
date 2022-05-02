@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Auto_Bot___Account_Creator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="account_password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter Account Password here.</Value>
+    </Setting>
+    <Setting Name="imported_content_index" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="mail_domain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter Mail Domain here.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

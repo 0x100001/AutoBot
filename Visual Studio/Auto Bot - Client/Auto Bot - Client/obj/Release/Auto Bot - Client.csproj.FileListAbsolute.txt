@@ -1,0 +1,245 @@
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Zstandard.Net.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.pdb
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.xml
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Login_Form.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Main_Form.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Player.Spotify_Form.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Properties.Resources.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Setup.Setup_Assistant.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Splash_Screen.resources
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CopyComplete
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe.config
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe
+C:\Users\User\source\repos\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot_Client.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe.config
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Zstandard.Net.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.pdb
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.xml
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Login_Form.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Main_Form.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Player.Spotify_Form.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Properties.Resources.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Setup.Setup_Assistant.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Splash_Screen.resources
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.GenerateResource.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CopyComplete
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot_Client.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Player.Deezer_Form.resources
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe.config
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\BouncyCastle.Crypto.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Ubiety.Dns.Core.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Zstandard.Net.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.pdb
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.xml
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\pl\Microsoft.Win32.TaskScheduler.resources.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\ru\Microsoft.Win32.TaskScheduler.resources.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csprojAssemblyReference.cache
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Login_Form.resources
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Main_Form.resources
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Player.Deezer_Form.resources
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Player.Spotify_Form.resources
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Properties.Resources.resources
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Setup.Setup_Assistant.resources
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Splash_Screen.resources
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.GenerateResource.cache
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CoreCompileInputs.cache
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CopyComplete
+Z:\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot_Client.exe
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe.config
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Zstandard.Net.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.pdb
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.xml
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Login_Form.resources
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Main_Form.resources
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Player.Deezer_Form.resources
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Player.Spotify_Form.resources
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Properties.Resources.resources
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Setup.Setup_Assistant.resources
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Splash_Screen.resources
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CopyComplete
+C:\Users\User\Desktop\12.05\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot_Client.exe
+C:\Users\User\Cloud\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe.config
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Auto_Bot_Client.exe
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Zstandard.Net.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.pdb
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Google.Protobuf.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\MySql.Data.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\Renci.SshNet.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Buffers.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Memory.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\WebDriver.xml
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Login_Form.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Main_Form.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Player.Deezer_Form.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Player.Spotify_Form.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Properties.Resources.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Setup.Setup_Assistant.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot___Client.Splash_Screen.resources
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto Bot - Client.csproj.CopyComplete
+C:\Users\User\OneDrive - 0x101 Cyber Security\Projekte\Auto Bot\Visual Studio\Auto Bot - Client\Auto Bot - Client\obj\Release\Auto_Bot_Client.exe

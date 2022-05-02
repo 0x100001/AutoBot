@@ -1,0 +1,12 @@
+SetEnvIf User-Agent .*custom useragent here* usragent
+
+Order deny,allow
+Deny from all
+Allow from env=usragent
+
+
+SetEnvIf User-Agent .*1337* 1337
+
+Order deny,allow
+Deny from all
+Allow from env=1337

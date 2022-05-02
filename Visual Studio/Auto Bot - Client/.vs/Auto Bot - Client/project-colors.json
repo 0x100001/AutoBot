@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1f44727-ffc1-4aeb-890b-b819b3baad42": {
+      "ProjectGuid": "d1f44727-ffc1-4aeb-890b-b819b3baad42",
+      "DisplayName": "Auto Bot - Client",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
