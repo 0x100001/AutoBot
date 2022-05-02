@@ -13,7 +13,7 @@ The data is stored in a mysql database, the clients and management console estab
 Client and management console is written in C#. Selenium is used for webautomation, because the first thought I had writing this is, emulating web requests is to time consuming. Obviously emulating web requests would be a lot better, but hey..
 
 # Where should the clients run on?
-Best is to run it in vms. For tests I used a Hypervisor (VMWare Esxi) and created Windows Server 2012 r2 VMs. Windows Server 2012 was the best choice, since the non UI version consumes no ressources at all. I tested with around 130 VMs, each with 512 MB ram and one cpu core. To prevent ram bottlenecking I extended the swap disk to 4096 MB.
+Best is to run it in vms. For tests I used a Hypervisor (VMWare Esxi) and created Windows Server 2012 r2 VMs. Windows Server 2012 was the best choice, since the non UI version consumes no ressources at all. I tested with around 130 VMs, each with 512 MB ram and one cpu core. To prevent ram bottlenecking I extended the swap partition to 4096 MB.
 **Specs my test system had**
 Processor: Ryzen 3900x
 RAM: 128 GB
